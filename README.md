@@ -1,7 +1,7 @@
 # Redis2LINDA-stringESE
 This package is composed of two parts:
 - Redis2LINDA.py is a Python program that allows to send messages from Redis to DALI MAS agents (via Linda), in a special encoding
-- stringESE.pl is a Prolog library that allows DALI MAS agents to decode messages that come from Redis (via Linda)
+- stringESE.pl is a Prolog library that allows DALI MAS agents to decode messages that come from [Redis](http://redis.io) (via Linda)
 
 ##Redis2LINDA.py##
 You can modify these lines to configure Redis2LINDA.py:
